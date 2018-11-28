@@ -17,7 +17,7 @@ include 'includes/navigation.php';
 	overall wellbeing.</p>
 
 	<p>The Greek philosopher Socrates once said <em>"When our feet hurt, we hurt all over."</em> How right
-	he was – we depend upon our feet to bear our weight and transport us throughout our lives,
+	he was - we depend upon our feet to bear our weight and transport us throughout our lives,
 	and yet it is often only when we experience a problem with our feet that we realise how
 	important their correct function is in all that we do. Additionally, as our feet are the
 	extremities of the human body, their condition can often provide a good indication of
