@@ -20,7 +20,7 @@ include 'includes/navigation.php';
 		our feet.</li>
 
 		<li>The world's largest known feet belong to Matthew McGrory, a 7'4" resident of Florida whose size 27&#189;
-		(UK size) feet require specially-made footwear costing around £14,000.</li>
+		(UK size) feet require specially-made footwear costing around &#163;14,000.</li>
 
 		<li>Our feet are made up of 52 bones, representing 25% of all our bones.</li>
 
