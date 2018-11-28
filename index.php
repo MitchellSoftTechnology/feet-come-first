@@ -7,7 +7,7 @@ include 'includes/navigation.php';
 ?>
 
 <div id="content">
-	<h2>Feet Come First ***Heroku***</h2>
+	<h2>Feet Come First</h2>
 	
 	<p>Welcome to Feet Come First! My name is Mike Shepherd and I have lived and worked in this area in the
 	field of health and social care for over 30 years. As you are reading this, the chances are that you or
@@ -36,7 +36,7 @@ include 'includes/navigation.php';
 	
 	<p>*Criminal Record Bureau</p>
 	
-	<h2 id="tag-line">...a step in the right direction</h2>
+	<h2 id="tag-line">....a step in the right direction</h2>
 	
 </div><!--end content-->
 
